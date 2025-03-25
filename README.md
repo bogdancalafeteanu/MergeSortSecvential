@@ -35,6 +35,9 @@ IV)10000 :
 
 ![image](https://github.com/user-attachments/assets/3fb740f0-fbb1-471d-84b8-194c1f833dd7)
 
+Graficul comform implementarilor:
+
+![tabel](https://github.com/user-attachments/assets/762dd63f-e746-4939-8051-55dab7c9fab3)
 
 
 
