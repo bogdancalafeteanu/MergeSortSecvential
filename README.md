@@ -20,3 +20,6 @@ III)50 elemente
 II)100 elemente :
 ![image](https://github.com/user-attachments/assets/4e84a4e0-faa3-426e-a8fc-cf45925296de)
 
+III)500 elemente :
+![image](https://github.com/user-attachments/assets/ffac1b91-110d-41e1-b3b2-3b6d8e1abc9a)
+
