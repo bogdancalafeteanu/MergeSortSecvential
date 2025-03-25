@@ -12,14 +12,12 @@ Sistem de operare : Windows 11
 Algoritmul a fost testat pe tablouri dimensionale cu dimensiuni de :
 
 I)10 elemente :
-![image](https://github.com/user-attachments/assets/8d23ca74-0785-400e-9ce8-c55f57c156fd)
-
-III)50 elemente
-![image](https://github.com/user-attachments/assets/9e6740bc-b25c-40e6-9324-87e91de8ac24)
+![image](https://github.com/user-attachments/assets/2ca86aa0-b0b8-4c12-96f3-f4957dfa76c6)
 
 II)100 elemente :
-![image](https://github.com/user-attachments/assets/4e84a4e0-faa3-426e-a8fc-cf45925296de)
+![image](https://github.com/user-attachments/assets/f7b234c2-a358-4bbe-ab8d-3eec74932205)
 
-III)500 elemente :
-![image](https://github.com/user-attachments/assets/ffac1b91-110d-41e1-b3b2-3b6d8e1abc9a)
+III)1000 elemente :
+!![image](https://github.com/user-attachments/assets/1a466b27-c2c2-498d-90d9-8ae00bb29b20)
+
 
