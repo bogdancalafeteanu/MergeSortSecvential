@@ -6,6 +6,7 @@ Limbaj programare utilizat : C++.
 
 Sisteme si/sau framework-urile folosite: MS-MPI.
 
+
 2)info despre masinii pe care ati rulat codul :
 
 Procesor: Intel Core I7-1165G7 2.8 GHz
@@ -13,6 +14,7 @@ Procesor: Intel Core I7-1165G7 2.8 GHz
 RAM : 8GB
 
 Sistem de operare : Windows 11
+
 
 3)Rezultatele experimentale, adica timpii de rulare.
 Algoritmul a fost testat pe tablouri dimensionale cu dimensiuni de :
@@ -27,7 +29,8 @@ II)100 elemente :
 
 III)1000 elemente :
 
-![image](https://github.com/user-attachments/assets/1a466b27-c2c2-498d-90d9-8ae00bb29b20)
+![image](https://github.com/user-attachments/assets/a5aa26fa-11fd-4ef0-ae39-9198b0c5197e)
+
 
 IV)10000 :
 
