@@ -21,6 +21,10 @@ II)100 elemente :
 
 III)1000 elemente :
 
-!![image](https://github.com/user-attachments/assets/1a466b27-c2c2-498d-90d9-8ae00bb29b20)
+![image](https://github.com/user-attachments/assets/1a466b27-c2c2-498d-90d9-8ae00bb29b20)
+
+IV)10000 :
+
+
 
 
