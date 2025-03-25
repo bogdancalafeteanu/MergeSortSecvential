@@ -12,10 +12,8 @@ Sistem de operare : Windows 11
 Algoritmul a fost testat pe tablouri dimensionale cu dimensiuni de :
 
 I)10 elemente :
-Rezultate afisate :
-Array before sorting: 12 11 13 5 6 7 25 12 60 24
-Array after sorting: 5 6 7 11 12 12 13 24 25 60
-Run time: 7 microseconds
+![image](https://github.com/user-attachments/assets/6d24d46b-2ae1-4c9f-a615-838b183083e7)
+
 
 II)100 elemente :
 ![image](https://github.com/user-attachments/assets/4e84a4e0-faa3-426e-a8fc-cf45925296de)
