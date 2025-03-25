@@ -14,7 +14,8 @@ Algoritmul a fost testat pe tablouri dimensionale cu dimensiuni de :
 I)10 elemente :
 ![image](https://github.com/user-attachments/assets/8d23ca74-0785-400e-9ce8-c55f57c156fd)
 
-
+III)50 elemente
+![image](https://github.com/user-attachments/assets/9e6740bc-b25c-40e6-9324-87e91de8ac24)
 
 II)100 elemente :
 ![image](https://github.com/user-attachments/assets/4e84a4e0-faa3-426e-a8fc-cf45925296de)
