@@ -31,8 +31,10 @@ III)1000 elemente :
 
 ![image](https://github.com/user-attachments/assets/a5aa26fa-11fd-4ef0-ae39-9198b0c5197e)
 
-
 IV)10000 :
+
+![image](https://github.com/user-attachments/assets/3fb740f0-fbb1-471d-84b8-194c1f833dd7)
+
 
 
 
