@@ -18,8 +18,7 @@ Sistem de operare : Windows 11
 
 3)Rezultatele experimentale, adica timpii de rulare.
 
-![image](https://github.com/user-attachments/assets/b5f820bc-31a2-495b-b454-53426ac944f8)
-
+![68ccc997-cb18-44e4-ada7-f2eab63e408a](https://github.com/user-attachments/assets/f10d0aa2-32f9-45bf-bb95-f9399b55fbd8)
 
 
 
